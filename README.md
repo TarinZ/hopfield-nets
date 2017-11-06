@@ -1,6 +1,6 @@
 # hopfield-nets
 
-<img src="gifs/hopfield_4.gif" width="500">
+<img src="gifs/hopfield_4_p2.gif" width="600" height="200">
 
 Hopfield Nets were one of the first success stories of the Connectionists, and they operate on a somewhat different pronciple than the DNNs that are so popular today. In essense, Hopfield networks are a specific class of Connectionist _energy_  based neural networks, whereby relationships between neurons/pixels are impressed into the weights as minimum energy states. 
 
